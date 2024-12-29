@@ -1,0 +1,125 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "description": "A novel set in the 1920s about the mysterious Jay Gatsby and his unrequited love for Daisy Buchanan.",
+        "price": 12.99,
+        "author": "F. Scott Fitzgerald",
+        "pagesCount": 180,
+        "publishedYear": 1925,
+        "genre": "Fiction",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "description": "A story of racial injustice and childhood innocence in the American South.",
+        "price": 10.99,
+        "author": "Harper Lee",
+        "pagesCount": 281,
+        "publishedYear": 1960,
+        "genre": "Fiction",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 3,
+        "title": "1984",
+        "description": "A dystopian novel about a totalitarian regime that uses surveillance to control its citizens.",
+        "price": 15.49,
+        "author": "George Orwell",
+        "pagesCount": 328,
+        "publishedYear": 1949,
+        "genre": "Dystopian",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "description": "A classic novel about manners, morality, and marriage in early 19th-century England.",
+        "price": 8.99,
+        "author": "Jane Austen",
+        "pagesCount": 279,
+        "publishedYear": 1813,
+        "genre": "Romance",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 5,
+        "title": "The Catcher in the Rye",
+        "description": "A novel about teenage rebellion and alienation in post-war America.",
+        "price": 11.50,
+        "author": "J.D. Salinger",
+        "pagesCount": 214,
+        "publishedYear": 1951,
+        "genre": "Fiction",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 6,
+        "title": "Moby Dick",
+        "description": "A novel about the obsessive quest of Captain Ahab for revenge on Moby Dick, a white whale.",
+        "price": 13.75,
+        "author": "Herman Melville",
+        "pagesCount": 635,
+        "publishedYear": 1851,
+        "genre": "Adventure",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 7,
+        "title": "War and Peace",
+        "description": "A historical novel about the Napoleonic Wars and their impact on Russian society.",
+        "price": 20.00,
+        "author": "Leo Tolstoy",
+        "pagesCount": 1225,
+        "publishedYear": 1869,
+        "genre": "Historical Fiction",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 8,
+        "title": "Crime and Punishment",
+        "description": "A psychological exploration of morality and redemption in 19th-century Russia.",
+        "price": 16.50,
+        "author": "Fyodor Dostoevsky",
+        "pagesCount": 430,
+        "publishedYear": 1866,
+        "genre": "Philosophical Fiction",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 9,
+        "title": "Brave New World",
+        "description": "A dystopian novel about a futuristic world dominated by technology and consumerism.",
+        "price": 14.99,
+        "author": "Aldous Huxley",
+        "pagesCount": 268,
+        "publishedYear": 1932,
+        "genre": "Dystopian",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      },
+      {
+        "id": 10,
+        "title": "The Hobbit",
+        "description": "A fantasy novel about the adventures of Bilbo Baggins in Middle-earth.",
+        "price": 12.50,
+        "author": "J.R.R. Tolkien",
+        "pagesCount": 310,
+        "publishedYear": 1937,
+        "genre": "Fantasy",
+        "language": "English",
+        "image": "https://imgs.search.brave.com/pW4GyuOnzXwnqnOz6gdg4rUXFhHauItOrFPopvvegS0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMub3BlbmxpYnJh/cnkub3JnL3cvaWQv/MTQ2NTI0NzAtTS5q/cGc"
+      }
+    ]
+  }
+  
